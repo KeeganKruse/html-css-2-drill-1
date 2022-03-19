@@ -1,0 +1,28 @@
+div {
+    background-color: rgb(54, 59, 59);
+    height: 100px;
+    width: 700px;
+    margin: auto;
+}
+
+#backgroundLayer2 {
+    background-color: lightgrey;
+    height: 450px;
+    width: 100px;
+    position: absolute;
+    left: 290px
+}
+
+#backgroundLayer3 {
+    background-color: lightgray;
+    height: 450px;
+    width: 100px;
+    position: absolute;
+    right: 290px
+}
+#backgroundLayer4 {
+    background-color: whitesmoke;
+    height: 400px;
+    width: 500px;
+    position: relative;
+}
